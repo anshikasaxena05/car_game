@@ -1,0 +1,40 @@
+#back{
+    background: url(scene.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    width:1518px;
+    height: 610px;;
+}
+#road{
+    background: url(rooad.jpg);
+    height:98px;
+    width:1518px;
+    
+        
+}
+#body{
+    background-color: black;
+    margin-bottom:5px;;
+}
+#car{
+    background: url(rooad.jpg);
+    background-repeat:repeat-x;
+    width:auto;
+    height: 60px;    
+}
+#btn{
+    background-color: rgb(109, 109, 221);
+    width: 120px;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+
+
+}
+#dbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
